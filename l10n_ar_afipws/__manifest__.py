@@ -29,7 +29,7 @@
         "demo/parameter_demo.xml",
     ],
     "images": [],
-    'installable': False,
+    'installable': True,
     "auto_install": False,
     "application": False,
 }
